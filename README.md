@@ -91,7 +91,7 @@ adb shell pm enable com.oplus.safecenter
 
 ## Final Remarks
 
-**TAKE THAT OPPO** 😂
+**TAKE THAT OPPO**
 
 Turns out it wasn't just **com.oplus.safecenter** acting alone - it was a whole gang of OPPO security packages working together like some kind of overprotective security cartel. They all had to go down together.
 
